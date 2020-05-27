@@ -10,7 +10,9 @@ class TodoDelete
                 $g = new Delete;
                 $get = $g->DeletebyId($id_task);
 
-                Flight::redirect('/todo');
+                print_r($get);
+
+                //Flight::redirect('/todo');
 
         }
 }

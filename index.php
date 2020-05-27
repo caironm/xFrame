@@ -33,7 +33,6 @@ $routs = new Routs(Flight::request()->url);
 ===================================== */
 include_once PATHS_LOCATE['controllers'].'/notFound.php';
 
-
 /* ==================================
     Start the app
 ===================================== */
