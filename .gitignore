@@ -1,0 +1,9 @@
+/git
+/vendor
+composer.lock
+/.vscode
+/public/uploads/*/
+.php-files.json
+/cache/views/*
+/node_modules
+package-look.json

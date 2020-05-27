@@ -1,0 +1,19 @@
+{
+  "name": "xframe",
+  "version": "1.0.0",
+  "description": "Uma stack para desenvolvimento web usando o composer.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "readable-stream": "^3.6.0"
+  }
+}

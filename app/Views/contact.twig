@@ -1,0 +1,14 @@
+{% extends "templates/index.twig" %}
+
+{% block content %}
+	<main role="main" class="container">
+
+		<div class="starter-template">
+			{{ title|raw }}
+            <p>Meu número é: {{ number }}</p>
+            <p>Meu e-mail é: {{ email }}</p>
+		</div>
+
+	</main><!-- /.container -->
+	
+{% endblock %}

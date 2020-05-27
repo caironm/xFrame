@@ -1,0 +1,1 @@
+var canvas=document.getElementById("canvas"),ctx=canvas.getContext("2d"),radius=canvas.height/2;ctx.translate(radius,radius),radius*=.9,setInterval(drawClock,1e3);
