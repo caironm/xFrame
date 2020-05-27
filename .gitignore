@@ -6,4 +6,4 @@ composer.lock
 .php-files.json
 /cache/views/*
 /node_modules
-package-look.json
+package-lock.json
