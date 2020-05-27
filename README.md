@@ -18,14 +18,18 @@ Uma stack para desenvolvimento web usando o composer.
 
 - php 7.1 a 7.3
 - mysql
-- node e npm
-- gulp
+- composer
+
+  ### Extras
+  - node e npm
+  - gulp
 
 ## Instalando
 
 - Crie uma base de dados e importe *xframe_todo.sql*
 - Edite os arquivo *config/dataBase.php*
   - Todos os aquivos incluidos em config são de configurações e carregados dinamicamente.
+- Rode: composer install
 
 ## Use o gulp
 
